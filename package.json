@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "gulpfile.js",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
